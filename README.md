@@ -12,6 +12,7 @@ The goal is to be able to find it, use it, and build on it later.
 | `people/` | Notes on specific people — one subfolder per person |
 | `leadership/` | Frameworks, tools, and references for leading teams |
 | `child-development/` | Research and frameworks on child development and play |
+| `how-2-fail/` | Notes on failure, risk-taking, and resilience |
 
 ### References & Citations
 
