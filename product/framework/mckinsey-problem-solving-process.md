@@ -2,7 +2,7 @@
 title: The BCG & McKinsey Problem-Solving Process
 date: 2026-07-21
 source: slideworks.io
-tags: [consulting, problem-solving, frameworks, leadership, strategy]
+tags: [consulting, problem-solving, frameworks, product, strategy]
 ---
 
 # The BCG & McKinsey Problem-Solving Process
