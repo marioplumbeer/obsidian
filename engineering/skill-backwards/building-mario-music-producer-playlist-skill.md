@@ -1,7 +1,7 @@
 ---
 title: Building the mario-music-producer-playlist Skill
 date: 2026-07-27
-tags: [engineering, claude-code, agent-skills, youtube-music, genius-api]
+tags: [engineering, agent-skills, youtube-music, genius-api]
 ---
 
 # Building the mario-music-producer-playlist Skill
